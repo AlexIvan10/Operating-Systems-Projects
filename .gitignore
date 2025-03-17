@@ -1,0 +1,17 @@
+
+*.pyc
+*.zip
+.idea/*
+.vscode/*
+a1/a1
+a1/test_root/*
+a1/tests.json
+a1/compile_log.txt
+a1/tester_docker.log
+a2/a2
+a2/compile_log.txt
+a2/tester_docker.log
+a3/a3
+a3/test_root/*
+a3/compile_log.txt
+a3/tester_docker.log
